@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class ArrayExample2 {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		//Array Declaration and intialization
