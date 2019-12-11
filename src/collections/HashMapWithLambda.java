@@ -1,6 +1,6 @@
-package Collections;
+package collections;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 
 import java.util.HashMap;
 import java.util.Map;
