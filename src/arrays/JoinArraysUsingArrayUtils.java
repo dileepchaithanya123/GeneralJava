@@ -1,7 +1,6 @@
-package Arrays;
+package arrays;
 
-import org.apache.commons.lang3.ArrayUtils;
-import sun.security.util.ArrayUtil;
+
 
 import java.util.Arrays;
 
